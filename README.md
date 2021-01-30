@@ -1,6 +1,15 @@
 ### Hi there 👋
 
 <!--
+
+As a new Master of Cyber Security student, I was searching for a centralised, reliable, and trusted knowledge and study repository.
+Then, I came across [GitHub Student Developer Pack](https://education.github.com/pack). 
+This pack offers heaps of brilliant and free tools that could support and assist me in my research and development. 
+The rest is history now. 
+I never look back after I have started to embark the journey on Github.
+If you are at a cross road, looking for a similar solution, I encourage you to give it a try and take advantange of what Github and affiliates offer for free(yes! majority😄)
+
+
 **leeyongk/leeyongk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
